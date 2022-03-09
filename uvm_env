@@ -1,0 +1,4 @@
+class uvm_env ;
+properties 
+methods 
+endclass
