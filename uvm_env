@@ -1,4 +1,8 @@
 class uvm_env ;
 properties 
+int data;
 methods 
+function new();
+data=this.data;
+endfunction 
 endclass
